@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=sx\ sy
+comment0.target=void\ setBounds(int,\ int)
+comment1.params=x\ y
+comment1.target=Star(int,\ int)
+comment2.params=chx\ chy
+comment2.target=void\ move(int,\ int)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4
