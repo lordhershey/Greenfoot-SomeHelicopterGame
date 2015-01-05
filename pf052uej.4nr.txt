@@ -1,0 +1,26 @@
+﻿
+Had the wrong files checked in.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   Bomb.class
+#	modified:   Bullet.class
+#	modified:   Copter.class
+#	modified:   EnemyBullet.class
+#	modified:   Fuel.class
+#	modified:   GameManager.class
+#	modified:   HighScore.class
+#	modified:   LandingPad.class
+#	modified:   Missile.class
+#	modified:   PlaceHolderLevelTransition.class
+#	modified:   PlatformerWorld.class
+#	modified:   Player.class
+#	modified:   Radar.class
+#	modified:   SmallRocket.class
+#	modified:   Turret.class
+#	modified:   project.greenfoot
+#	modified:   soundindex.list
+#
+
